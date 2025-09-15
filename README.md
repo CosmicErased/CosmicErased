@@ -6,7 +6,4 @@
 
 Currently learning JavaScript, React, and AI APIs.  
 
-## 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,tailwind,git,figma,blender&theme=light)](https://skillicons.dev)
-
 </div>
